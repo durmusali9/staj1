@@ -356,7 +356,7 @@ http://url(test etmek istediğin sitenin)/search.php?query=<script>alert('XSS')<
 ->XSS payloadu başarıllı olmadı; yani uygulama kullanıcı tarafından girilen veriyi yeterli şekilde filtreyebildi ve başarılı oldu.
 -> Zafiyet türü: Reflected XSS veya Stored XSS(hangi modülde test yapıldıysa belirtin).
 
-![çıktı](./resimler/xss.JPEG)
+![çıktı](./resimler/xss.jpeg)
 
    6.Xss saldırısının web sitesi üzerinde etkileri:
 -> Kullanıcı oturumlarının çalınması, kötü amaçlı JavaScript çalıştırılması, phishing veya kullanıcı etkileşimlerinin manipülasyonu gibi tehlikeler söz konusu olabilir.
